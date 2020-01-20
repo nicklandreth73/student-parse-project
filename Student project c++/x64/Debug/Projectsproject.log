@@ -1,0 +1,15 @@
+﻿  networkStudent.cpp
+  roster.cpp
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(42,26): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(46,27): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(50,27): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(54,27): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(58,27): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(63,27): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(67,27): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+  Generating Code...
+C:\Users\Landreth\Desktop\Student project c++\roster.cpp(71,27): warning C4267:  '=': conversion from 'size_t' to 'int', possible loss of data
+  Projectsproject.vcxproj -> C:\Users\Landreth\Desktop\Student project c++\x64\Debug\Projectsproject.exe

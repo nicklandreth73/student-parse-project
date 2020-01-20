@@ -1,0 +1,2 @@
+This is a project for a class at WGU it is really only usefull in that it gave me practice in virtual methods, polymorphism and other C++ concepts. The project had a strict
+set of guidelines which included putting the main function in the roster class. So if you want to run the project the Main method is in the roster.cpp
